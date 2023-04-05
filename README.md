@@ -1,5 +1,3 @@
-# DECODE MORSE CODE 
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
