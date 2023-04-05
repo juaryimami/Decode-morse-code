@@ -31,6 +31,12 @@ Decode morse code - This is a project with ruby programs to decode morse code me
 
 - <a href="https://www.ruby-lang.org/en/">Ruby</a></li>
 
+
+### Key Features <a name="key-features"></a>
+
+- **[Decode Morse Code]**
+
+
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
@@ -64,8 +70,14 @@ Install this project with:
 Run the following commands
 
 ```sh
-  cd desired folder
-  gem install
+  cd Decode-morse-code
+  bundle install
+```
+
+### Usage 
+
+```sh
+  ruby app.rb
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -88,6 +100,12 @@ Run the following commands
 - LinkedIn: [Juhar Yimer](https://www.linkedin.com/in/juhar-yimer/) 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **[Implement better UI]**
+- [ ] **[Reduce Time Complexity]**
 
 ## 🤝 Contributing <a name="contributing"></a>
 
